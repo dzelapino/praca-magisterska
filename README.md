@@ -1,5 +1,14 @@
 # praca-magisterska
 
+## seminaria terminy sem. 2
+
+- 01.03.2024 18:45
+- 22.03.2024 16:30
+- 12.04.2024 18:00
+- 10.05.2024 16:30
+- 07.06.2024 16:30
+- 21.06.2024 17:15
+
 ## zarys + pomysły - żebym nie zapomniał
 
 praca ma opierać się na porównaniu scope aplikacji
@@ -24,3 +33,5 @@ spoko pomysłem może być też sesyjna lista z danymi, puszczamy ograniczone qu
 jeśli różnią się to lecimy geta w innym wypadku nic nie robimy
 
 ogólnie fajnie robić coś co może mi się przydać w robocie ale najważniejsze jest żeby podpiąć tam coś mającego merytoryczne znaczenie a nie sam łysy kod i finito
+
+praca ma mieć about 55-65 stron
